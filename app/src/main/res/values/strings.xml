@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Projet_E5</string>
+    <string name="app_name">Projet BUZZ</string>
     <string name="app_login">Login</string>
     <string name="default_textV_login">Email</string>
     <string name="default_textV_password">Mot de passe</string>
